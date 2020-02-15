@@ -1,12 +1,12 @@
 /* eslint-disable react/no-direct-mutation-state */
 import React, { Component } from "react";
-import GridMDC from "./components/GridMDC";
-import PaperMDC from "./components/PaperMDC";
-import CharCard from "./components/CharCard";
-import Score from "./components/Score";
-import Alert from "./components/Alert";
-import NavBar from "./components/NavBar";
-import BottomNavMDC from "./components/BottomNavMDC";
+import GridMDC from "./components /GridMDC";
+import PaperMDC from "./components /PaperMDC";
+import CharCard from "./components /CharCard";
+import Score from "./components /Score";
+import Alert from "./components /Alert/Alert";
+import NavBar from "./components /NavBar";
+import BottomNavMDC from "./components /BottomNavMDC";
 import characters from "./characters.json";
 
 class App extends Component {
@@ -137,7 +137,7 @@ class App extends Component {
           }}
         >
           <a
-            href="#"
+            href="google.com"
             target="_blank"
             className="link"
             alt="clicky-game-github-link"
