@@ -137,7 +137,7 @@ class App extends Component {
           }}
         >
           <a
-            href="google.com"
+            href="https://github.com/dominguez9421/newclickygame/tree/gh-pages"
             target="_blank"
             className="link"
             alt="clicky-game-github-link"
