@@ -9,7 +9,7 @@ const NavBar = props => {
       <AppBar position="static" {...props}>
         <Toolbar>
           <Typography variant="headline" color="white" align="center">
-            NINTENDO CLICKY GAME
+            DOG CLICKY GAME
           </Typography>
         </Toolbar>
       </AppBar>
